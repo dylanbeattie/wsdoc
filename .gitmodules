@@ -1,3 +1,6 @@
-[submodule "modules/module01"]
-	path = modules/module01
+[submodule "docs/modules/module01"]
+	path = docs/modules/module01
+	url = git@github.com:dylanbeattie/WorkshopApp.git
+[submodule "docs/modules/module02"]
+	path = docs/modules/module02
 	url = git@github.com:dylanbeattie/WorkshopApp.git
